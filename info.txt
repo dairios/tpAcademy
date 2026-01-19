@@ -1,0 +1,20 @@
+﻿# Project Information
+Project: tpAcademy
+Type: Academic Project
+Framework: Nest.js
+Purpose: Learn Git & GitHub workflows
+Author: DarkMentor0
+Created: 2025
+Description: This project demonstrates version control practices using Git and GitHub in a professional development environment.
+
+## Features:
+- REST API with Nest.js
+- Git branching strategy
+- GitHub repository management
+- Professional commit messages
+
+## Learning Objectives:
+- Understand Git workflows
+- Master branch management
+- Collaborate using pull requests
+- Deploy projects to GitHub
